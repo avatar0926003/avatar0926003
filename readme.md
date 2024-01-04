@@ -12,7 +12,7 @@
     </td>
   </tr>
   <tr>
-    <td>09/2013 - 07/2017</td>
+    <td>09/2013 - 06/2017</td>
     <td>
       <b>Bachelor of 
       <a href="https://www.tku.edu.tw/">Tamkang University</a>, 
